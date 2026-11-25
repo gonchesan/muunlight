@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Gonzalo Sánchez Garay"]
 description = "A Zed theme inspired by Moonlight II, with dark and light variants."
-repository = "https://github.com/<usuario>/muunlight"
+repository = "https://github.com/gonchesan/muunlight"
